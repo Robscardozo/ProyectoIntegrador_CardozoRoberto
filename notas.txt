@@ -6,8 +6,14 @@ tecla windaows + R	despuyes CMD
 ingresar a la carpeta donde esta el repocitorio.
 
 direccion:
-C:\Users\MarRob\Downloads\YoProgramo\ProyectoFinal\ProyectoIntegrador_CardozoRoberto\ProyectoIntegrador_CardozoRoberto
+
+cd Users\MarRob\Downloads\YoProgramo\ProyectoFinal\ProyectoIntegrador_CardozoRoberto\ProyectoIntegrador_CardozoRoberto
 
 codigo para cargar
 
 ng serve
+-------------------------------------
+Para generar un componente
+
+comando	 ng g c components/nombreDelComponente
+		n= new  g= gerate		g= general c= component

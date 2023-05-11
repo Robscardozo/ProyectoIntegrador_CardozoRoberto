@@ -87,9 +87,13 @@
               "src/assets"
             ],
             "styles": [
-              "src/styles.css"
+              "src/styles.css",
+              "ProyectoIntegrador_CardozoRoberto/ProyectoIntegrador_CardozoRoberto/node_modules/bootstrap/dist/css/bootstrap.css"
+          
             ],
-            "scripts": []
+            "scripts": [
+              "ProyectoIntegrador_CardozoRoberto/ProyectoIntegrador_CardozoRoberto/node_modules/bootstrap/dist/js/bootstrap.js"
+            ]
           }
         }
       }
